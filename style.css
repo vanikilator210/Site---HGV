@@ -1,0 +1,110 @@
+/* Global */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #c1ff72;
+}
+#header {
+    background-color: #00bf63;
+}
+.logo {
+    width: 90px;
+    border-radius: 50%;
+    margin-right: 100px;
+}
+#img {
+    width: 1300px;
+    height: 430px;
+}
+#nav-link {
+    color: white;
+}
+#nav-link-1 {
+    color: yellow;
+    font-size: 110%;
+}
+#header a:hover {
+    color: yellow;
+    font-size: 110%
+}
+/* Index */
+.text {
+    font-size: 130%;
+    color: black;
+    text-shadow: 2px 2px 2px grey;
+}
+#postagens {
+    padding: 5px;
+}
+#photo {
+    width: 200px;
+    border-radius: 50%;
+}
+#photo-text {
+    margin-top: 5px;
+}
+#photo-text h5 {
+    font-weight: bold;
+}
+.footer {
+    background-color: #00bf63;
+}
+.footer ul {
+    list-style-type: none;
+    padding: 50px;
+}
+.footer h5 {
+    font-weight: bold;
+}
+.footer li {
+    margin-bottom: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px #557e20;
+}
+.footer a:hover {
+    font-size: 110%;
+    color: yellow;
+}
+.direitos {
+    text-align: center;
+    border-top: 1px solid black;
+    color: yellow;
+}
+/* Especialidade */
+.title-esp {
+    font-weight: bold;
+    margin: 10px;
+}
+#line {
+    margin-top: 20px;
+}
+.photo-esp {
+    width: 250px;
+    border-radius: 50%;
+}
+#line h5{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+/* Funcionários */
+#line-func {
+    margin-top: 50px;
+}
+#line-func h1 {
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+/* Sobre nós */
+#line-sob {
+    margin: 20px;
+}
+#line-sob h1, h5 {
+    font-weight: bold;
+}
